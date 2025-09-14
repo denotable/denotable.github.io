@@ -5,7 +5,7 @@ This repo is a clone of [https://github.com/varadbhogayata/varadbhogayata.github
 
 ## Activity 1
 #### Repo
-<img src="/assets/readme_img/Activity 1_Repo.png" alt="">
+<img src="assets/readme_img/Activity 1_Repo.png" alt="">
 
 ## Activity 2
 #### Repo
@@ -21,6 +21,11 @@ This repo is a clone of [https://github.com/varadbhogayata/varadbhogayata.github
 <img src="assets/readme_img/Activity 2_Home Page_Contact.png" alt="">
 
 ## Activity 3
+#### Repo
+<img src="assets/readme_img/Activity 3_Repo.png" alt="">
+
+#### Home Page
+<img src="assets/readme_img/Activity 3_Home Page.png" alt="">
 
 ## Activity 4
 
