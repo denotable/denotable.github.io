@@ -28,5 +28,11 @@ This repo is a clone of [https://github.com/varadbhogayata/varadbhogayata.github
 <img src="assets/readme_img/Activity 3_Home Page.png" alt="">
 
 ## Activity 4
+#### Repo
+<img src="assets/readme_img/Activity 4_Repo.png" alt="">
+
+#### Places Travelled Section
+<img src="assets/readme_img/Activity 4_Places Travelled Section.png" alt="">
 
 ## Activity 5
+
