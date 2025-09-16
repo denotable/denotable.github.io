@@ -71,6 +71,8 @@
   -->
   <!-- Google Site Verification for indexing -->
   <meta name="google-site-verification" content="_qxK8tePiU2fhnwlwnJ7pkDFnj1k2EiKq_cYGy1Cb84" />
+
+  <script src="/assets/js/recent-projects.js" defer></script>
 </head>
 
 <body>
@@ -363,9 +365,21 @@
     <!-- Fourth Section: Projects -->
     <section id="projects" class="section scrollspy">
       <h3 class="page-title white-text purple">Projects</h3>
+      <!-- Recent Projects Rendering (JS) -->
+      <h4 class="brown-text light" style="margin-top:0">Recent Projects</h4>
+
+      <div id="recent-projects" class="row" aria-live="polite">
+        <noscript>Please enable JavaScript to view recent projects.</noscript>
+      </div>
+
+      <div class="center-align" style="margin-top: 12px;">
+        <button id="load-more-projects" class="btn waves-effect purple">Load More</button>
+      </div>
+
       <div class="container">
         <div class="row">
-
+          
+          <!-- NextPersona-->
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
@@ -404,7 +418,8 @@
               </div>
             </div>
           </div>
-
+          
+          <!-- ALPR System -->
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
